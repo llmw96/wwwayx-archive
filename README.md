@@ -1,2 +1,14 @@
 # wwwayx-archive
-HTML page archive and documentation
+
+独立 HTML 页面集合
+
+这个仓库用于静态页面归档，主要保存 HTML 文件和说明信息。
+
+## 页面保存
+
+- HTML 文件按任务生成
+- README 用于记录仓库用途
+
+## 后续维护
+
+页面文件会随任务增加，可通过提交历史查看更新过程。
